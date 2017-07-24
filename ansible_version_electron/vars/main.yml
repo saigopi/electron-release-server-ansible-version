@@ -1,0 +1,2 @@
+WORKDIR: /usr/src/electron-release-server
+SERVERIP: 192.168.0.104
